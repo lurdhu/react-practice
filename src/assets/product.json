@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "chicken",
+        "price": 250,
+        "pic": "food1"
+    },
+    {
+        "id": 2,
+        "name": "mutton",
+        "price": 300,
+        "pic": "food2"
+    },
+    {
+        "id": 3,
+        "name": "biriyani",
+        "price": 100,
+        "pic": "food3"
+    },
+    {
+        "id": 4,
+        "name": "noodels",
+        "price": 90,
+        "pic": "food4"
+    },
+    {
+        "id": 5,
+        "name": "pizza",
+        "price": 300,
+        "pic": "food1"
+    },
+    {
+        "id": 6,
+        "name": "pizza",
+        "price": 210,
+        "pic": "food1"
+    },
+    {
+        "id": 8,
+        "name": "biriyani",
+        "price": 180,
+        "pic": "food3"
+    },
+    {
+        "id": 7,
+        "name": "mutton",
+        "price": 150,
+        "pic": "food2"
+    },
+    {
+        "id": 9,
+        "name": "noodels",
+        "price": 110,
+        "pic": "food4"
+    },
+    {
+        "id": 10,
+        "name": "chicken",
+        "price": 130,
+        "pic": "food1"
+    }
+]
